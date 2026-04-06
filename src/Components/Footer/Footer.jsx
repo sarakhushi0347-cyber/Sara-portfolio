@@ -17,17 +17,17 @@ const Footer = () => {
       <ul className="flex gap-4 text-sm md:text-xl">
         <li className="flex gap-1 items-center">
           <MdOutlineEmail size={20} />
-          myemail@gmail.com
+          <a href="mailto:sarakhushi0347@gmail.com">sarakhushi0347@gmail.com</a>
         </li>
 
         <li className="flex gap-1 items-center">
           <CiLinkedin size={20} />
-          linkedin.com/username
+          <a href="https://linkedin.com/in/sarakhushi" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </li>
 
         <li className="flex gap-1 items-center">
           <FaGithub size={20} />
-          github.com/username
+          <a href="https://github.com/sarakhushi0347-cyber" target="_blank" rel="noopener noreferrer">GitHub</a>
         </li>
       </ul>
 

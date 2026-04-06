@@ -24,9 +24,7 @@ const About = () => {
                   Frontend Developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maxime tempora magnam provident dolore rerum mollitia ut optio
-                  reprehenderit quibusdam delectus.
+                  Specialized in creating responsive and interactive web interfaces using React, HTML, CSS, and JavaScript. I build modern UI components and ensure seamless user experiences across all devices.
                 </p>
               </span>
             </div>
@@ -40,8 +38,7 @@ const About = () => {
                   Database Developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Ea ex earum dolorum obcaecati dicta.
+                  Experienced with MongoDB and Redis for efficient data storage and retrieval. I design scalable database schemas and optimize queries for better application performance.
                 </p>
               </span>
             </div>
@@ -55,8 +52,7 @@ const About = () => {
                   Backend Developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maxime tempora magnam ea ex earum dolorum obcaecati dicta.
+                  Proficient in server-side development with Node.js and Express. I create robust APIs, handle authentication, and implement business logic to support dynamic web applications.
                 </p>
               </span>
             </div>

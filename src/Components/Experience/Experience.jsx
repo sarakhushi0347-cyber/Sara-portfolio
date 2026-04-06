@@ -60,7 +60,7 @@ const Experience = () => {
                 Software Engineer, Google
               </h2>
               <p className="text-sm leading-tight font-thin">
-                Sept 2026 - Present
+                Jan 2024 - Present
               </p>
               <ul className="text-sm p-2">
                 <li>- Work as Software Developer</li>
@@ -77,7 +77,7 @@ const Experience = () => {
                 Software Engineer, Netflix
               </h2>
               <p className="text-sm leading-tight font-thin">
-                Sept 2026 - Present
+                June 2023 - Dec 2023
               </p>
               <ul className="text-sm p-2">
                 <li>- Work as Software Developer</li>
@@ -94,7 +94,7 @@ const Experience = () => {
                 Software Engineer, Amazon
               </h2>
               <p className="text-sm leading-tight font-thin">
-                Sept 2026 - Present
+                Jan 2023 - May 2023
               </p>
               <ul className="text-sm p-2">
                 <li>- Work as Software Developer</li>

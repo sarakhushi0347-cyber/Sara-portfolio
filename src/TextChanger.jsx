@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 const TextChanger = () => {
-  const texts = ["Hi, I'm Sara, i' am frontend developer, i love coding. ", "Frontend Developer", "React Developer"];
+  const texts = ["Hi, I'm Sara, I'm a frontend developer, I love coding. ", "Frontend Developer", "React Developer"];
 
   const [currentText, setCurrentText] = useState("");
   const [endValue, setEndValue] = useState(0);
